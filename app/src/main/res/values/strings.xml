@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">EmployeesPairTask</string>
+
+    <!--    HomeScreen-->
+    <string name="select_file">Please select a file</string>
+    <string name="select">select</string>
+
+    <!--    ResultScreen-->
+    <string name="employee1">#1</string>
+    <string name="employee2">#2</string>
+    <string name="project_id">Project</string>
+    <string name="days_worked">Days</string>
+
+    <!--    Errors-->
+    <string name="no_team_found">No Team found!"</string>
+    <string name="parsing_problem">"Problem occurred while parsing the file!</string>
+
 </resources>
